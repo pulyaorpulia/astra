@@ -1,5 +1,5 @@
 // Contract address
-const contractAddress = "0x1234567890abcdef1234567890abcdef12345678"; // O'zgarish: haqiqiy contract address ni shu yerga yozing
+const contractAddress = "CaM3vRDktC4FpSmYfZQPStPjb3SyygZr3tquxWZDmoon"; // O'zgarish: haqiqiy contract address ni shu yerga yozing
 
 // Copy tugmasi
 const copyButton = document.getElementById('copyBtn');
