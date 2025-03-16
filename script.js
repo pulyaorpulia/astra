@@ -1,5 +1,5 @@
 // Contract address
-const contractAddress = "CaM3vRDktC4FpSmYfZQPStPjb3SyygZr3tquxWZDmoon"; // O'zgarish: haqiqiy contract address ni shu yerga yozing
+const contractAddress = "https://odin.fun/"; // O'zgarish: haqiqiy contract address ni shu yerga yozing
 
 // Copy tugmasi
 const copyButton = document.getElementById('copyBtn');
